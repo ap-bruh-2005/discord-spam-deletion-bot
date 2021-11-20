@@ -1,0 +1,6 @@
+discord.py==1.7.3
+pandas==1.2.4
+sklearn==0.24.1
+nltk==3.6.1
+
+(My package versions)
